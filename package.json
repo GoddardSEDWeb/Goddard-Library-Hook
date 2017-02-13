@@ -1,0 +1,18 @@
+{
+  "name": "goddard-library-hook",
+  "version": "1.0.0",
+  "description": "Allows for data exportation from the goddard library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoddardSEDWeb/Goddard-Library-Hook.git"
+  },
+  "author": "Ben Pelletier <benjamin.e.pelletier@nasa.gov>",
+  "bugs": {
+    "url": "https://github.com/GoddardSEDWeb/Goddard-Library-Hook/issues"
+  },
+  "homepage": "https://github.com/GoddardSEDWeb/Goddard-Library-Hook#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
